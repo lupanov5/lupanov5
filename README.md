@@ -1,16 +1,16 @@
 # **Hello, World!**
-## **My name is Lupanov Dmitry**
+## ***My name is Lupanov Dmitry***
 
-### I’m currently learning Frontend-development
+### ***I’m currently learning Frontend-development***
 
 *****
 
-### ***I like:***
-- :girl: *My daughter*
-- :walking: *Travelling*
-- :sunrise_over_mountains: *Mountaineering*
-- :dancer: *Dancing*
-- :bike: *Bike*
+## ***I like:***
+- :girl: ***My daughter***
+- :walking: ***Travelling***
+- :sunrise_over_mountains: ***Mountaineering***
+- :dancer: ***Dancing***
+- :bike: ***Bike***
 
 ***And coding in JavaScript***
 
