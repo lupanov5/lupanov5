@@ -1,7 +1,7 @@
 # **Hello, World!**
 ## ***My name is Lupanov Dmitry***
 
-### ***I’m currently learning Frontend-development***
+### ***I'm a frontend developer***
 
 *****
 
