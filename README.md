@@ -1,7 +1,7 @@
 # **Hello, World!**
 ## ***My name is Lupanov Dmitry***
 
-### ***I'm a frontend developer***
+### ***I'm a fullstack developer***
 
 *****
 
